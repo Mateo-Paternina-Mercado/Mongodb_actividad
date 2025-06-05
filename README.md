@@ -124,6 +124,36 @@ Registro de los recursos que los usuarios están viendo o han terminado:
     db.recursos.find({ "nombre": "The Crown" })
     db.recursos.find({ "nombre": "Sapiens: De animales a dioses" })
     ```
+### Eliminar y Crear recursos
+- Eliminar un recurso específico por nombre
+  ```js
+  db.recursos.deleteOne({ "nombre": "The Crown" })
+  ```
+- Eliminar todos los recursos con estado "Pendiente"
+  ```js
+  db.recursos.deleteMany({ "estado": "Pendiente" })
+  ```
+- Eliminar un recurso por ID de usuario y nombre (más preciso)
+```js
+db.recursos.deleteOne({ "usuario_id": 22, "nombre": "La Casa de Papel" })
+```
+
+- Agregar un nuevo recurso con campos obligatorios y validados:
+
+  ```js
+
+  db.recursos.insertOne({
+    "usuario_id": 10,
+    "nombre": "Black Mirror",
+    "genero_id": 12,
+    "plataforma_id": 1,     // Netflix
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": 5,
+    "resena": "Cada episodio es único y provoca reflexión."
+  })
+  ```
 
 ### Validación de Datos
 
