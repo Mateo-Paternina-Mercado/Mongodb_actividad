@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Martínez",
+    "correo": "carlos.martinez@example.com",
+    "contrasena": "clave123",
+    "fecha_creacion": "2023-04-12"
+  },
+  {
+    "id": 2,
+    "nombre": "Laura Gómez",
+    "correo": "laura.gomez@example.com",
+    "contrasena": "lauraPass456",
+    "fecha_creacion": "2022-11-07"
+  },
+  {
+    "id": 3,
+    "nombre": "Andrés Torres",
+    "correo": "andres.torres@example.com",
+    "contrasena": "andresSecure",
+    "fecha_creacion": "2024-03-15"
+  },
+  {
+    "id": 4,
+    "nombre": "María López",
+    "correo": "maria.lopez@example.com",
+    "contrasena": "maria321",
+    "fecha_creacion": "2025-01-22"
+  },
+  {
+    "id": 5,
+    "nombre": "José Hernández",
+    "correo": "jose.hernandez@example.com",
+    "contrasena": "josePass!",
+    "fecha_creacion": "2022-12-02"
+  },
+  {
+    "id": 6,
+    "nombre": "Ana Ruiz",
+    "correo": "ana.ruiz@example.com",
+    "contrasena": "anaSegura",
+    "fecha_creacion": "2023-06-18"
+  },
+  {
+    "id": 7,
+    "nombre": "Luis Castro",
+    "correo": "luis.castro@example.com",
+    "contrasena": "luis1234",
+    "fecha_creacion": "2024-10-05"
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía Mendoza",
+    "correo": "sofia.mendoza@example.com",
+    "contrasena": "sofiaLove",
+    "fecha_creacion": "2023-02-11"
+  },
+  {
+    "id": 9,
+    "nombre": "Miguel Romero",
+    "correo": "miguel.romero@example.com",
+    "contrasena": "miguelSecure",
+    "fecha_creacion": "2025-03-09"
+  },
+  {
+    "id": 10,
+    "nombre": "Valentina Ríos",
+    "correo": "valentina.rios@example.com",
+    "contrasena": "valenPass1",
+    "fecha_creacion": "2024-07-01"
+  },
+  {
+    "id": 11,
+    "nombre": "David Silva",
+    "correo": "david.silva@example.com",
+    "contrasena": "david321",
+    "fecha_creacion": "2023-05-14"
+  },
+  {
+    "id": 12,
+    "nombre": "Camila Navarro",
+    "correo": "camila.navarro@example.com",
+    "contrasena": "camilaPass",
+    "fecha_creacion": "2024-11-27"
+  },
+  {
+    "id": 13,
+    "nombre": "Javier Cruz",
+    "correo": "javier.cruz@example.com",
+    "contrasena": "javiC123",
+    "fecha_creacion": "2022-08-30"
+  },
+  {
+    "id": 14,
+    "nombre": "Isabella Paredes",
+    "correo": "isabella.paredes@example.com",
+    "contrasena": "isaBonita",
+    "fecha_creacion": "2023-10-13"
+  },
+  {
+    "id": 15,
+    "nombre": "Daniel Soto",
+    "correo": "daniel.soto@example.com",
+    "contrasena": "daniPass",
+    "fecha_creacion": "2025-02-19"
+  },
+  {
+    "id": 16,
+    "nombre": "Lucía Moreno",
+    "correo": "lucia.moreno@example.com",
+    "contrasena": "luciaSecure",
+    "fecha_creacion": "2022-09-03"
+  },
+  {
+    "id": 17,
+    "nombre": "Tomás Acosta",
+    "correo": "tomas.acosta@example.com",
+    "contrasena": "tomasCl@ve",
+    "fecha_creacion": "2024-05-08"
+  },
+  {
+    "id": 18,
+    "nombre": "Paula Vargas",
+    "correo": "paula.vargas@example.com",
+    "contrasena": "paula456",
+    "fecha_creacion": "2023-01-29"
+  },
+  {
+    "id": 19,
+    "nombre": "Mateo Rojas",
+    "correo": "mateo.rojas@example.com",
+    "contrasena": "mateo!123",
+    "fecha_creacion": "2024-06-20"
+  },
+  {
+    "id": 20,
+    "nombre": "Renata Salazar",
+    "correo": "renata.salazar@example.com",
+    "contrasena": "renaPass",
+    "fecha_creacion": "2025-05-10"
+  },
+  {
+    "id": 21,
+    "nombre": "Santiago Peña",
+    "correo": "santiago.pena@example.com",
+    "contrasena": "santiSecure",
+    "fecha_creacion": "2022-07-18"
+  },
+  {
+    "id": 22,
+    "nombre": "Emma Cárdenas",
+    "correo": "emma.cardenas@example.com",
+    "contrasena": "emmaClave",
+    "fecha_creacion": "2023-03-26"
+  },
+  {
+    "id": 23,
+    "nombre": "Sebastián León",
+    "correo": "sebastian.leon@example.com",
+    "contrasena": "sebPass2023",
+    "fecha_creacion": "2024-01-03"
+  },
+  {
+    "id": 24,
+    "nombre": "Martina Ramírez",
+    "correo": "martina.ramirez@example.com",
+    "contrasena": "martiSecure",
+    "fecha_creacion": "2023-12-22"
+  },
+  {
+    "id": 25,
+    "nombre": "Gabriel Ortega",
+    "correo": "gabriel.ortega@example.com",
+    "contrasena": "gab12345",
+    "fecha_creacion": "2022-06-15"
+  },
+  {
+    "id": 26,
+    "nombre": "Antonia Méndez",
+    "correo": "antonia.mendez@example.com",
+    "contrasena": "antoniaClave",
+    "fecha_creacion": "2024-09-11"
+  },
+  {
+    "id": 27,
+    "nombre": "Diego Aguirre",
+    "correo": "diego.aguirre@example.com",
+    "contrasena": "diego456",
+    "fecha_creacion": "2023-08-24"
+  },
+  {
+    "id": 28,
+    "nombre": "Elena Fuentes",
+    "correo": "elena.fuentes@example.com",
+    "contrasena": "elenaPwd",
+    "fecha_creacion": "2025-04-06"
+  },
+  {
+    "id": 29,
+    "nombre": "Simón Bravo",
+    "correo": "simon.bravo@example.com",
+    "contrasena": "simBravo",
+    "fecha_creacion": "2022-10-01"
+  },
+  {
+    "id": 30,
+    "nombre": "Catalina Varela",
+    "correo": "catalina.varela@example.com",
+    "contrasena": "cata123",
+    "fecha_creacion": "2023-07-07"
+  },
+  {
+    "id": 31,
+    "nombre": "Bruno Delgado",
+    "correo": "bruno.delgado@example.com",
+    "contrasena": "brun0Pass",
+    "fecha_creacion": "2024-12-30"
+  },
+  {
+    "id": 32,
+    "nombre": "Julieta Paz",
+    "correo": "julieta.paz@example.com",
+    "contrasena": "julietaPwd",
+    "fecha_creacion": "2022-04-20"
+  },
+  {
+    "id": 33,
+    "nombre": "Axel Ibáñez",
+    "correo": "axel.ibanez@example.com",
+    "contrasena": "axelSecure",
+    "fecha_creacion": "2023-11-19"
+  },
+  {
+    "id": 34,
+    "nombre": "Florencia Reyes",
+    "correo": "florencia.reyes@example.com",
+    "contrasena": "florClave",
+    "fecha_creacion": "2024-02-28"
+  },
+  {
+    "id": 35,
+    "nombre": "Facundo Benítez",
+    "correo": "facundo.benitez@example.com",
+    "contrasena": "facu123",
+    "fecha_creacion": "2025-03-12"
+  },
+  {
+    "id": 36,
+    "nombre": "Abril Torres",
+    "correo": "abril.torres@example.com",
+    "contrasena": "abrilPwd",
+    "fecha_creacion": "2022-05-25"
+  },
+  {
+    "id": 37,
+    "nombre": "Franco Villalba",
+    "correo": "franco.villalba@example.com",
+    "contrasena": "franco2025",
+    "fecha_creacion": "2024-08-14"
+  },
+  {
+    "id": 38,
+    "nombre": "Bianca Carrillo",
+    "correo": "bianca.carrillo@example.com",
+    "contrasena": "biancaSecure",
+    "fecha_creacion": "2023-09-03"
+  },
+  {
+    "id": 39,
+    "nombre": "Thiago Pino",
+    "correo": "thiago.pino@example.com",
+    "contrasena": "thiago!pass",
+    "fecha_creacion": "2024-04-17"
+  },
+  {
+    "id": 40,
+    "nombre": "Regina Roldán",
+    "correo": "regina.roldan@example.com",
+    "contrasena": "reginaPwd",
+    "fecha_creacion": "2025-01-01"
+  },
+  {
+    "id": 41,
+    "nombre": "Alan Cabrera",
+    "correo": "alan.cabrera@example.com",
+    "contrasena": "alan123",
+    "fecha_creacion": "2023-06-09"
+  },
+  {
+    "id": 42,
+    "nombre": "Mía Navarro",
+    "correo": "mia.navarro@example.com",
+    "contrasena": "miaSecure",
+    "fecha_creacion": "2022-07-26"
+  },
+  {
+    "id": 43,
+    "nombre": "Iván Campos",
+    "correo": "ivan.campos@example.com",
+    "contrasena": "ivanPwd",
+    "fecha_creacion": "2024-10-20"
+  },
+  {
+    "id": 44,
+    "nombre": "Nicole Vega",
+    "correo": "nicole.vega@example.com",
+    "contrasena": "nicoPass",
+    "fecha_creacion": "2023-03-01"
+  },
+  {
+    "id": 45,
+    "nombre": "Damián Flores",
+    "correo": "damian.flores@example.com",
+    "contrasena": "damian456",
+    "fecha_creacion": "2022-09-10"
+  },
+  {
+    "id": 46,
+    "nombre": "Juliana Díaz",
+    "correo": "juliana.diaz@example.com",
+    "contrasena": "juliana123",
+    "fecha_creacion": "2024-11-04"
+  },
+  {
+    "id": 47,
+    "nombre": "Marcos Herrera",
+    "correo": "marcos.herrera@example.com",
+    "contrasena": "marcosPwd",
+    "fecha_creacion": "2023-12-16"
+  },
+  {
+    "id": 48,
+    "nombre": "Agustina Soto",
+    "correo": "agustina.soto@example.com",
+    "contrasena": "agusClave",
+    "fecha_creacion": "2025-04-23"
+  },
+  {
+    "id": 49,
+    "nombre": "Esteban Lozano",
+    "correo": "esteban.lozano@example.com",
+    "contrasena": "esteban123",
+    "fecha_creacion": "2022-08-04"
+  },
+  {
+    "id": 50,
+    "nombre": "Romina Gil",
+    "correo": "romina.gil@example.com",
+    "contrasena": "rominaPwd",
+    "fecha_creacion": "2024-06-29"
+  }
+]
